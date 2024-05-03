@@ -1,0 +1,10 @@
+{
+  "name": "redeagle0705-poopdustry",
+  "displayName": "poopdustry",
+  "author": "redeagle0705",
+  "description": "very poopy dustry",
+  "version": "0.0.1",
+  "hidden": true,
+  "minGameVersion": "140.4",
+  "dependencies": []
+}
