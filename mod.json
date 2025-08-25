@@ -5,6 +5,6 @@
   "description": "very poopy dustry",
   "version": "0.0.2",
   "hidden": true,
-  "minGameVersion": "140.4",
+  "minGameVersion": "146",
   "dependencies": []
 }
